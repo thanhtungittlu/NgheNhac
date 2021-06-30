@@ -12,7 +12,7 @@
 11. Add volume
  */
 
-alert('Chúc em yêu nghe nhạc vui vẻ =]]<')
+alert('Chúc cả nhà nghe nhạc vui vẻ =]]<')
 
 const $ = document.querySelector.bind(document)
 const $$ = document.querySelectorAll.bind(document)
